@@ -5,7 +5,7 @@
 A network interface is a point of connection between a computer (or any network device) and a network. It enables communication between devices over a network, allowing data transmission and reception.
 
 
-## Types of NEtwork Interface 
+## Types of Network Interface 
 
   ### 1. Wired Interface (Ethernet)
   - Uses cables for a stable and high-speed connection. Example **eth0** ,**eth1** in linux.
