@@ -4,6 +4,7 @@
 
 A network interface is a point of connection between a computer (or any network device) and a network. It enables communication between devices over a network, allowing data transmission and reception.
 
+
 ## Types of NEtwork Interface 
   ### 1. Wired Interface (Ethernet)
   - Uses cables for a stable and high-speed connection. Example **eth0** ,**eth1** in linux.
@@ -20,6 +21,7 @@ A network interface is a point of connection between a computer (or any network 
 ### Network Interface Scanner Script
 
 This Python script utilizes the **psutil** and **socket** modules to list all available network interfaces on the system along with their associated addresses, netmasks, and broadcast IPs. It is a useful tool for gathering network configuration details
+
 
 ### Prerequisites 
 Ensure you have Python installed on your system. The script requires the **psutil** module, which can be installed using:
