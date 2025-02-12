@@ -6,6 +6,7 @@ A network interface is a point of connection between a computer (or any network 
 
 
 ## Types of NEtwork Interface 
+
   ### 1. Wired Interface (Ethernet)
   - Uses cables for a stable and high-speed connection. Example **eth0** ,**eth1** in linux.
      
@@ -28,3 +29,9 @@ Ensure you have Python installed on your system. The script requires the **psuti
 - ```bash
   pip install psutil
   ```
+
+## Psutil Module in Python
+
+The **psutil** (Process and System Utilities) module in Python is a cross-platform library used to interact with system resources and process management. It provides functions to retrieve information on system utilization (CPU, memory, disks, network, sensors, and more) as well as manage system processes.
+
+
